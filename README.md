@@ -28,7 +28,7 @@ Traditionally, the balloon has 20 answers, which can be divided into four groups
 
 ● Don't even think about it ● My reply is no ● My sources say no ● Outlook not so good ● Very doubtful
 ____
-## The game is written in [Ruby.](https://en.wikipedia.org/wiki/Ruby)
+## The game is written in [Ruby.](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 To run it you have to go to the terminal directory with the program and run it with the following command:
 
 $ruby 22_4.rb
