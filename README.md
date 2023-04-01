@@ -33,7 +33,12 @@ ____
 ### Guide
 
 1. Requirements: having a Ruby interpreter.
-2. Download the program [git@github.com/Nurikld/mball.git](https://github.com/Nurikld/mball)
+2. Download the program
+
+```
+git@github.com/Nurikld/mball.git
+```
+
 3. To run it you have to go to the terminal directory with the program and run it with the following command:
 
 ```
