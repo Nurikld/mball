@@ -29,10 +29,17 @@ Traditionally, the balloon has 20 answers, which can be divided into four groups
 ● Don't even think about it ● My reply is no ● My sources say no ● Outlook not so good ● Very doubtful
 ____
 ## The game is written in [Ruby.](https://en.wikipedia.org/wiki/Ruby_(programming_language))
-To run it you have to go to the terminal directory with the program and run it with the following command:
 
-> $ruby mball.rb
+### Guide
 
-Press Enter.
+1. Requirements: having a Ruby interpreter.
+2. Download the program [git@github.com/Nurikld/mball.git](https://github.com/Nurikld/mball)
+3. To run it you have to go to the terminal directory with the program and run it with the following command:
 
+```
+$ ruby mball.rb
+```
+
+4. Press Enter.
+____
 
