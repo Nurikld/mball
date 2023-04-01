@@ -31,7 +31,7 @@ ____
 ## The game is written in [Ruby.](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 To run it you have to go to the terminal directory with the program and run it with the following command:
 
-> $ruby 22_4.rb
+> $ruby mball.rb
 
 Press Enter.
 
